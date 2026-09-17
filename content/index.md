@@ -1,6 +1,7 @@
 ---
 status: evergreen
 tags: [learning]
+aliases: [羽毛球主页]
 ---
 
 # 🏸 羽毛球主页
