@@ -2,6 +2,7 @@
 status: evergreen
 tags: [learning]
 aliases: [羽毛球主页]
+title: 羽毛球
 ---
 
 # 🏸 羽毛球主页
